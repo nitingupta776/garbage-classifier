@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "446809382877",
+    "firebase_url": "https://fireapp-garbageclassifier-default-rtdb.firebaseio.com",
+    "project_id": "fireapp-garbageclassifier",
+    "storage_bucket": "fireapp-garbageclassifier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446809382877:android:7a8efe678122260d09e034",
+        "android_client_info": {
+          "package_name": "com.bhavuk.majorproject.garbageclassifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446809382877-rciia9gdfgc5q0ciqfbtadknfplv52na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxu2HCjgT8FkxUR3bAcnFvJGUBUkkOQA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446809382877-rciia9gdfgc5q0ciqfbtadknfplv52na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

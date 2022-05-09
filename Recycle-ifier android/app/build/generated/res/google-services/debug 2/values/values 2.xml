@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">592216026587-n2uvofpikht0hig6gcna4k2tv125c8i3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">592216026587</string>
+    <string name="google_api_key" translatable="false">AIzaSyAJxV29vgrYSsvZKMqWV7v003d22O7pBEI</string>
+    <string name="google_app_id" translatable="false">1:592216026587:android:aea6b36e31e749d0cdcbfe</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAJxV29vgrYSsvZKMqWV7v003d22O7pBEI</string>
+    <string name="google_storage_bucket" translatable="false">garbage-detector-and-locator.appspot.com</string>
+    <string name="project_id" translatable="false">garbage-detector-and-locator</string>
+</resources>
